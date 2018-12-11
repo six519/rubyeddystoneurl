@@ -21,8 +21,8 @@ Installing Through RubyGems
 
 	sudo gem install rubyeddystoneurl
 
-Python Sample Usage
-===================
+Ruby Sample Usage
+=================
 ::
 
 	require 'rubyeddystoneurl'

@@ -3,6 +3,8 @@ rubyeddystoneurl
 
 Ruby C Extension To Scan Eddystone-URL Bluetooth Low Energy Beacons
 
+.. image:: http://ferdinandsilva.com/static/rubyeddystoneurl.jpg
+
 Install Requirements For Linux (Ubuntu, Debian)
 ===============================================
 ::
